@@ -22,4 +22,5 @@ yarn-debug.log*
 yarn-error.log*
 
 # config
-
+test-results/
+playwright-report/
